@@ -12,6 +12,7 @@ You can find the original design provided by Front-end Mentor and my result.
 
 ### My Result
 Online version: https://albertodemaria.github.io/FE-Mentor__Product-preview-card-component/public_html/index.html
+<br>
 ![My result.](/design/result/Final.png)
 
 
